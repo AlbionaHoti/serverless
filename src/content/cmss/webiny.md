@@ -6,6 +6,6 @@ logo: /images/webiny.svg
 ---
 Webiny is an open-source framework for building serverless applications. \
 \
-It's built on top of AWS cloud and uses the latest technologies such as NodeJs, React and GraphQL.\
+It's built on top of the AWS cloud and uses the latest technologies such as NodeJs, React, and GraphQL.\
 \
-[Learn more](https://www.webiny.com/)
+[Learn more](https://www.webiny.com)
